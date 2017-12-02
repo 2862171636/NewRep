@@ -1,6 +1,6 @@
-package com.lanou.ServiceImpl;
+package com.lanou.service.impl;
 
-import com.lanou.Service.TeacherService;
+import com.lanou.service.TeacherService;
 import com.lanou.dao.TeacherMapper;
 import com.lanou.entity.Teacher;
 import org.springframework.beans.factory.annotation.Autowired;

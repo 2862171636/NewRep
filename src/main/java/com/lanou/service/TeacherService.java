@@ -1,4 +1,4 @@
-package com.lanou.Service;
+package com.lanou.service;
 
 import com.lanou.entity.Teacher;
 

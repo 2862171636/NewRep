@@ -1,7 +1,6 @@
-package com.lanou.Controller;
+package com.lanou.controller;
 
-import com.lanou.ServiceImpl.TeacherServiceImpl;
-import com.lanou.Service.TeacherService;
+import com.lanou.service.TeacherService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
