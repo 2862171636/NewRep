@@ -33,3 +33,4 @@ Thumbs.db
 
 .DS_Store
 target/zyy-SSM/WEB-INF/classes/db.properties
+/.metadata/
