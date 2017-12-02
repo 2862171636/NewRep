@@ -8,7 +8,7 @@
 </head>
 <body>
 
-	<h1>这是index</h1>
+	<h1>这是index${teachers}</h1>
 
 </body>
 </html>
